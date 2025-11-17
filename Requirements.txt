@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+ipykernel
+streamlit
+seaborn
+fsspec
